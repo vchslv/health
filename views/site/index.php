@@ -32,5 +32,5 @@ $this->title = 'My Yii Application';
     <br>
 
 <?php endforeach; ?>
-  <br>
+
 </div>
